@@ -42,7 +42,7 @@ composer install
 
 # cd'ing to project directory
 
-cd pinsdash
+cd Start-Bootstrap
 
 # make sur you have .env file
 # if not rename .env.example file to .env by executing this command
