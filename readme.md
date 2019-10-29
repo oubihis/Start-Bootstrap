@@ -11,6 +11,15 @@
 
 Voyager is a Laravel Admin Package that includes BREAD(CRUD) operations, a media manager, menu builder, and much more.
 
+## ✨ Demo
+
+```
+http://www.startbootstrap.oubihis.com/admin
+Email: user@user.com
+Password: password
+
+```
+
 ## Installation 🚀
 
 
