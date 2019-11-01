@@ -75,12 +75,16 @@ php artisan serve
 
 Here you'll find the [best practices](https://github.com/alexeymezenin/laravel-best-practices) and [naming conventions](https://github.com/alexeymezenin/laravel-best-practices#follow-laravel-naming-conventions) for laravel project.
 
-## 💻 Support
+## :ghost: About design
+**Description** : 
+Clean blog is a carefully styled Bootstrap blog theme that is perfect for personal or company blogs. This theme features four HTML pages including a blog index, an about page, a sample post, and a contact page.
+[ View on GitHub](https://github.com/BlackrockDigital/startbootstrap-clean-blog).
 
+
+## 💻 Support
 [Open Issue](https://github.com/oubihis/Start-Bootstrap/issues/new).
 
 ## 🤝 Contributing
-
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/oubihis/Start-Bootstrap/compare/).
 
 ## Big thanks ❤️ ❤️ ❤️
